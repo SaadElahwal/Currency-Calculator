@@ -36,3 +36,4 @@ swap.addEventListener('click', () => {
 });
 
 calculate();
+
